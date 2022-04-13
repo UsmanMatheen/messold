@@ -1,0 +1,31 @@
+.main {
+  padding: 3% 18% 7%;
+}
+h1 {
+  font-family: "font-family: Georgia, serif;";
+  color: #8e7654;
+  font-size: 6rem;
+}
+p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+}
+.sec1Row {
+  text-align: center;
+}
+.footprints {
+  text-align: left;
+  font-family: "Arial", cursive;
+  font-size: 1rem;
+}
+.sec2Row {
+  text-align: center;
+}
+
+#content {
+  font-size: 1rem;
+  margin: 2rem 0 0;
+}
+.contentright {
+  margin-top: 12%;
+}
